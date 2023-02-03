@@ -1,25 +1,57 @@
+![MasterHead](https://scand.com/wp-content/uploads/2020/05/Java-KV2.jpg)
+
 <h1 align="center">Hi 👋, I'm Mohammad Rizwan</h1>
-<h3 align="center">A passionate Java Back-end developer</h3>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2131993%2Fscreenshots%2F4948736%2Fthoughtworks-gif_dribbble.gif&f=1&nofb=1&ipt=47e1263e561fefbb80fa7aa9e2e50cc90570035591604f7d2c4056923d7a101e&ipo=images">
+<h2 align="center">A Java Back-end Developer</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizwank123&label=Profile%20views&color=0e75b6&style=flat" alt="rizwank123" /> </p>
+<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizwank123" alt="rizwank123" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rizwank123&label=Profile%20views&color=0e75b6&style=flat" alt="Rizwank123" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="linkedin.com/in/mohammad-rizwan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mohammad-rizwan2" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/user3392xr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user3392xr/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@mohammad1595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@mohammad1595" height="30" width="40" /></a>
-</p>
+- 🌱 I’m currently learning **Java Back-end development**
+
+- 👨‍💻 All of my projects are available at my [Portfolio](https://Rizwank123.github.io)
+
+- 📫 How to reach me **md.rizwank431@gmail.com**
+
+- 📄 Have a look at my [Resume](https://drive.google.com/file/d/1U-Q7IM4qbw90OQSpgbbfruVExkA69Kdo/view?usp=share_link)
+
+- 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-rizwan2/)
+
+<!-- - 💬 ask me about Java
+
+- 😄 Pronouns: He/His -->
+
+- ⚡ Fun fact **I crack lame jokes**
+
+<br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizwank123&show_icons=true&locale=en&layout=compact" alt="rizwank123" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizwank123&show_icons=true&locale=en" alt="rizwank123" /></p>
+<h2 align="left">📄 My Stats:</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizwank123&" alt="rizwank123" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rizwank123" alt="Rizwank123" /></a> </p>
 
+<br>
+
+<h2 align="left">📊 My Github Stats:</h2>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizwank123" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rizwank123&show_icons=true" alt="Rizwank123" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rizwank123&" alt="Rizwank123" /></p>
+
+<br>
+<h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Mohammad Rizwan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Rizwank123&theme=react-dark&hide_border=true" /></a>
+
+<br>
+
+<h2 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Connect With Me:</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/mohammad-rizwan2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mandar-deshmukh-62821b189/" height="40" width="50" /></a>
+<a href="https://www.leetcode.com/user2597xi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user2597xi" height="40" width="50" /></a>
+</p>
