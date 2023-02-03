@@ -52,6 +52,6 @@
 
 <h2 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Connect With Me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/mohammad-rizwan2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mandar-deshmukh-62821b189/" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/mohammad-rizwan2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-rizwan2/" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/user2597xi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user2597xi" height="40" width="50" /></a>
 </p>
