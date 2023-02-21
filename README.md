@@ -1,6 +1,17 @@
 ![MasterHead](https://scand.com/wp-content/uploads/2020/05/Java-KV2.jpg)
 
-<h1 align="center">Hi 👋, I'm Mohammad Rizwan</h1>
+<img src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js">
+<script>
+anime({
+  targets: 'h1',
+  translateY: [-100, 0],
+  opacity: [0, 1],
+  easing: 'easeOutExpo',
+  duration: 2000
+});
+</script>
+<h1>Hello, Mohammad Rizwan</h1>
+
 <h2 align="center">A Java Back-end Developer</h2>
 
 <img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"/>
