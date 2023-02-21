@@ -24,7 +24,7 @@
 
 - 😄 Pronouns: He/His -->
 
-- ⚡ Fun fact **I crack lame jokes**
+
 
 <br>
 <br>
