@@ -22,7 +22,7 @@
 
 <!-- - 💬 ask me about Java
 
-- 😄 Pronouns: He/His -->
+<!- 😄 Pronouns: He/His -->
 
 
 
