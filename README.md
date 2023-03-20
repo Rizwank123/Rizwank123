@@ -22,6 +22,8 @@
 
 <!-- - 💬 ask me about Java -->
 
+<br>
+<br>
 
 <h2 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Connect With Me:</h2>
 <p align="center">
