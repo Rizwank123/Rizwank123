@@ -20,9 +20,8 @@
 
 - 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-rizwan2/)
 
-<!-- - 💬 ask me about Java
+<!-- - 💬 ask me about Java -->
 
-<!- 😄 Pronouns: He/His -->
 
 
 
