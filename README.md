@@ -12,8 +12,7 @@
 
 - 🌱 I’m currently learning **Java Back-end development**
 
-- 👨‍💻 All of my projects are available at my <a href="https://rizwank123.github.io" alt="rizwank123.github.io">Portfolio</a>
-
+- 👨‍💻 All of my projects are available at my [Rizwank123.github.io](https://rizwank123.github.io/)
 - 📫 How to reach me **md.rizwank431@gmail.com**
 
 - 📄 Have a look at my [Resume](https://drive.google.com/file/d/1U-Q7IM4qbw90OQSpgbbfruVExkA69Kdo/view?usp=share_link)
