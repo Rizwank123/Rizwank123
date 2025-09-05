@@ -1,66 +1,200 @@
-![MasterHead](https://scand.com/wp-content/uploads/2020/05/Java-KV2.jpg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Mohammad%20Rizwan&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
-
-<h1 align="center">Hi 👋, I'm Mohammad Rizwan</h1>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Golang+Backend+Developer;JAVA+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Golang+Backend+Engineer;☁️+AWS+Cloud+Enthusiast;💻+Microservices+Architect;🎯+Performance+Optimizer;📊+Database+Expert&font=Fira%20Code&center=true&width=600&height=50&color=36BCF7&vCenter=true&size=20&pause=1000">
 </div>
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966"/>
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=Rizwank123&label=Profile%20views&color=brightgreen&style=for-the-badge)](https://github.com/Rizwank123)
+  [![GitHub followers](https://img.shields.io/github/followers/Rizwank123?label=Followers&style=for-the-badge&color=blue)](https://github.com/Rizwank123)
+  [![Years Badge](https://badges.pufler.dev/years/Rizwank123?style=for-the-badge&color=orange)](https://github.com/Rizwank123)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rizwank123&label=Profile%20views&color=0e75b6&style=flat" alt="Rizwank123" /> </p>
+</div>
 
-- 🌱 I’m currently Working **Golang Back-end development**
+---
 
-- 👨‍💻 All of my projects are available at my [Rizwank123.github.io](https://rizwank123.github.io/)
-- 📫 How to reach me **md.rizwank431@gmail.com**
+## 🧑‍💼 About Me
 
-- 📄 Have a look at my [Resume](https://drive.google.com/file/d/1U-Q7IM4qbw90OQSpgbbfruVExkA69Kdo/view?usp=share_link)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-rizwan2/)
+```go
+package main
 
-<!-- - 💬 ask me about Golang/Java -->
+type SoftwareEngineer struct {
+    Name           string
+    Role           string
+    Experience     string
+    Location       string
+    Languages      []string
+    Technologies   []string
+    CurrentFocus   string
+}
 
-<br>
-<br>
+func NewMohammadRizwan() *SoftwareEngineer {
+    return &SoftwareEngineer{
+        Name:         "Mohammad Rizwan",
+        Role:         "Backend Engineer",
+        Experience:   "2+ Years",
+        Location:     "India 🇮🇳",
+        Languages:    []string{"Go", "Java", "JavaScript"},
+        Technologies: []string{"PostgreSQL", "AWS", "Docker"},
+        CurrentFocus: "Building Scalable Microservices",
+    }
+}
+```
 
-<h2 align="left"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">Connect With Me:</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/mohammad-rizwan2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-rizwan2/" height="40" width="50" /></a>
-<a href="https://leetcode.com/u/user1777Rb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user2597xi" height="40" width="50" /></a>
- <a href="https://rizwank123.github.io" target="_blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/business-and-management-round-flat-icons/500/portfolio-512.png" alt="rizwank123.github.io" height="40" width="50" /></a>
+### 🚀 What I Do
 
- 
- 
+- 🔧 **Backend Development**: Building scalable systems with **Golang** that handle 1000+ concurrent users
+- ☁️ **Cloud Architecture**: Designing AWS-powered solutions with S3, Lambda, and microservices
+- 🗄️ **Database Optimization**: PostgreSQL query optimization reducing execution time by **60%**
+- 🔐 **Security Implementation**: JWT authentication systems with role-based access control
+- 📈 **Performance Tuning**: Achieving **90%+ code coverage** with comprehensive testing strategies
 
- 
-</p>
+---
 
+## 🛠️ Tech Stack & Tools
 
-<br>
-<br>
+### Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a><a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" alt="Golang" width="40" height="40"></a><a href="https://echo.labstack.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/c05124e1be3676bc61f5177364949e56a182d167a6aca25517e0090f5d6b5040/68747470733a2f2f63646e2e6c6162737461636b2e636f6d2f696d616765732f6563686f2d6c6f676f2e737667" width="40" height="40" alt="echo Framwork"></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### Frameworks & Libraries
+![Echo](https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-<br>
+### Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-<h2 align="left">📄 My Stats:</h2>
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rizwank123" alt="Rizwank123" /></a> </p>
+### Development Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-<br>
+---
 
-<h2 align="left">📊 My Github Stats:</h2>
+## 💼 Professional Experience
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizwank123" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rizwank123&show_icons=true" alt="Rizwank123" /></p>
+### 🏢 Software Engineer @ Mitr Sewa Foundation *(Oct 2024 - Present)*
+```yaml
+Technologies: [Golang (Fiber), PostgreSQL, SQLC, AWS S3]
+Achievements:
+  - Built comprehensive HR management APIs with CRUD operations
+  - Reduced runtime errors by 40% using SQLC for type-safe database interactions
+  - Implemented secure JWT authentication with role-based authorization
+  - Achieved 90%+ code coverage with comprehensive testing
+```
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rizwank123&" alt="Rizwank123" /></p>
+### 🏢 Software Engineer @ Intiqo Technologies *(2023 - 2024)*
+```yaml
+Technologies: [Golang (Echo), PostgreSQL, Squirrel, AWS S3]
+Achievements:
+  - Developed APIs serving 1000+ concurrent users
+  - Optimized database queries, reducing execution time by 60%
+  - Handled 10,000+ requests per minute using Go goroutines
+  - Mentored junior developers on Go best practices
+```
 
-<br>
-<h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Mohammad Rizwan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rizwank123&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true" /></a>
+---
 
-<br>
+## 🚀 Featured Projects
 
+<div align="center">
+
+| 🍽️ **MyResturent** | 🎉 **Eventify** | 🎓 **DoubtShare Platform** |
+|:---:|:---:|:---:|
+| ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Rizwank123&repo=MyResturent&theme=tokyonight&hide_border=true) | ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Rizwank123&repo=Eventify&theme=tokyonight&hide_border=true) | ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Rizwank123&repo=doubtshare&theme=tokyonight&hide_border=true) |
+| **Restaurant management • Orders & inventory** | **Event planning & booking • Scheduling system** | **Q&A platform • Full-text search** |
+
+</div>
+
+### 🌟 Project Highlights
+- **🔐 Security First**: JWT authentication with refresh tokens and role-based permissions
+- **⚡ High Performance**: Optimized database queries and efficient API design
+- **🏗️ Clean Architecture**: Dependency injection and microservices patterns
+- **📱 Responsive Design**: Cross-platform compatibility and optimal UX
+- **🍽️ Business Logic**: Restaurant management with order processing and inventory tracking
+- **🎉 Event Management**: Comprehensive event planning and booking system with scheduling
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rizwank123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rizwank123&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizwank123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Rizwank123&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rizwank123&custom_title=Mohammad%20Rizwan's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+
+---
+
+## 🎯 Current Goals
+
+```go
+goals := map[string]string{
+    "🚀 Learning":     "Advanced Go patterns & Kubernetes",
+    "☁️ Certification": "AWS Solutions Architect",
+    "🔧 Building":     "Open source Go libraries",
+    "📖 Reading":      "Designing Data-Intensive Applications",
+    "🎯 Target":       "Tech Lead/Senior Backend Engineer",
+}
+```
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-rizwan2/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://rizwank123.github.io)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/user1777Rb/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.rizwank431@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1U-Q7IM4qbw90OQSpgbbfruVExkA69Kdo/view?usp=share_link)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+
+**Thanks for visiting! ⭐ Star my repositories if you find them interesting!**
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
